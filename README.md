@@ -1,5 +1,5 @@
 
-# Star System Labs LitePaper
+# Star System Labs WhitePaper
 
  
  
