@@ -38,7 +38,7 @@
 
 - Monolith Game Mechanism
 
-7. [The PrimordialDAO](#the-primordial-dao)
+7. [The PrimordialDAO](#the-primordialdao)
 
 8. [The Interstellar Bridge](#the-interstellar-bridge)
 
