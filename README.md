@@ -24,7 +24,7 @@
 
 - GenesisPods
 
-4. [Semi-Fungible Token Descriptions](#semi-fungible-token-description)
+4. [Semi-Fungible Token Descriptions](#semi-fungible-token-descriptions)
 
 -  Monolith Shards
 
