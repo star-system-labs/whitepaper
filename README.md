@@ -28,19 +28,21 @@
 
 -  Monolith Shards
 
-5. [Staking Mechanisms](#staking-mechanisms)
+5. [Nebula Miner](#nebula-miner)
+
+6. [Staking Mechanisms](#staking-mechanisms)
 
 - LP Staking
 
 - Vesting
 
-6. [On-Chain Generative NFT System](#on-chain-generative-nft-system)
+7. [On-Chain Generative NFT System](#on-chain-generative-nft-system)
 
 - Monolith Game Mechanism
 
-7. [The PrimordialDAO](#the-primordialdao)
+8. [The PrimordialDAO](#the-primordialdao)
 
-8. [Conclusion](#conclusion)
+9. [Conclusion](#conclusion)
 
  
 
@@ -180,19 +182,42 @@ Once you've assembled the seeding pod, you're ready to seed life on your CosmicI
 
 ---
 
+## Nebula Miner
+
+
+### Introduction to Nebula Miner
+
+
+The Nebula Miner is a core component of the Nebula Platform, designed to support the ecosystem through a unique mining process. Participants, referred to as miners, contribute to the platform by depositing Ethereum (ETH). This ETH is then utilized to provide liquidity in the PEPE token pool, reinforcing the token's market stability. Miners have the flexibility to target their support towards either PEPE or PNDC tokens.
+
+Mining Process
+Deposit ETH: Miners start by depositing ETH into the Nebula Miner.
+Support Liquidity Pool: The deposited ETH is automatically injected into the liquidity pool of the chosen meme coin (PEPE or PNDC), enhancing its market presence.
+
+Earn PPEPE Rewards: By participating in the mining process, miners immediately get PPEPE sent to their wallets.
+
+SDIV Airdrop: By participating in the mining process, miners are also eligible to opt-in for Stardust Dividends (SDIV) rewards, launch TBA.
+Benefits
+
+Supports and stabilizes meme coin markets within the Nebula ecosystem.
+
+Offers rewards in the form of PPEPE and SDIV aligning interests of miners with the platform's growth.
+
+---
+
 ## Staking Mechanisms
 
 
 ### LP Staking
  
 
-LP staking is vital for generating PrimordialPePe (PPEPE) in our ecosystem. Users can earn PrimordialPePe rewards by staking LP tokens, specifically PrimordialPePe LP tokens. Another way to produce PrimordialPePe is by staking a PrimordialPlanet NFT.
+LP staking is vital for generating PrimordialPePe (PPEPE) in our ecosystem. Users can earn PrimordialPePe rewards by staking LP tokens, specifically any  LP tokens for the associated tokens integrated into Nebula. Another way to produce PrimordialPePe is by staking a PrimordialPlanet NFT.
 
 Locking LP tokens removes them from circulation, enhancing liquidity and security within the swap protocol providing a rug resistant trading ecosystem for any meme token our community chooses to support.
 
-PePe token holders are the first who can participate in LP staking to generate PrimordialPePe rewards, fostering community support and growth.
+PePe, SHIB, and SDIV token holders are among the first who can participate in LP staking to generate PrimordialPePe rewards, fostering community support and growth.
 
-Staking 1 $PEPE LP Token yields 100 PrimordialPePe daily. Staking 10 $PEPE LP Tokens results in 1,000 $PPEPE per day as a reward, and so on. Pond $PNDC  gets the same rates as PePe $PEPE as it is a unique token while each other meme token that gets integrated into our system will have unique emissions providing a balanced ecosystem. Meanwhile staking 1 $PPEPE LP Token yields 1,000 $PPEPE tokens daily and staking StarDustDividends LP Tokens yields 2,000$PPEPE daily per staked token
+Staking LP Token still earns $PPEPE daily, the actual calculation uses an incremental approach that increases slightly (starts at 0.05% and raises by this amount daily) each day up to day 100; after that, rewards remain capped at the day-100 rate(5%). Any partial day is measured by leftover seconds, ensuring more precise rewards.
 
 If a user wants to increase yields in a compounding effect for a single LP Staking pool, NFTs can boost these daily yields when locked alongside the pool. These boosts take the form of 2% for the first Generation, 10% for the second Generation (Primary LP/Vesting Booster), and 5% for the third Generation. Community voting will determine the inclusion of new MeMe tokens for LP staking rewards in PrimordialPePe.
 
@@ -202,12 +227,10 @@ If a user wants to increase yields in a compounding effect for a single LP Staki
 
 Vesting, a key pillar of our system, significantly contributes to the generation of PrimordialPePe. The process is governed by a timelock mechanism spanning 1 to 12 months.
 
-While our vesting system includes specific tokens, each token follows a unique vesting rate that directly corresponds to the reward percentage based on the length of the timelock. The reward rate starts at 2% and increases 2% until month 12, of which has a posted rate of 30% instead of 24%
-
-Tokens to be integrated at launch:
+While our vesting system includes specific tokens, each token follows a unique vesting rate that directly corresponds to the reward percentage based on the length of the timelock. The reward rate starts at 2% and increases 2% until month 12, of which has a boosted rate of 26% instead of 24%. This gets adjusted for each token integrated into nebula, currently all token initially integrated will get these rates, and the tokens to be integrated at launch are:
 
 - PePe $PEPE (0x69)
-- Pond $PNDC
+- Shiba Inu $SHIB
 - PrimordialPePe $PPEPE
 - StarDustDividends $SDIV
 
