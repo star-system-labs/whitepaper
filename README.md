@@ -42,7 +42,7 @@
 
 8. [The PrimordialDAO](#the-primordialdao)
 
-9. [NebulaSwap & Aggregator](#nebulaswap-and-aggregator)
+9. [NebulaSwap and Aggregator](#nebulaswap-and-aggregator)
 
 10. [Conclusion](#conclusion)
 
@@ -291,7 +291,7 @@ The PrimordialDAO guarantees transparency and security throughout the voting pro
 
 ---
 
-## NebulaSwap & Aggregator
+## NebulaSwap and Aggregator
 
 Star System Labs proudly introduces Nebula Swap, a gas-optimized Automated
 Market Maker (AMM) offering lower fees, designed to revolutionize the trading
