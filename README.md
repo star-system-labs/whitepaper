@@ -42,7 +42,9 @@
 
 8. [The PrimordialDAO](#the-primordialdao)
 
-9. [Conclusion](#conclusion)
+9. [NebulaSwap & Aggregator](#nebulaswap-&-aggregator)
+
+10. [Conclusion](#conclusion)
 
  
 
@@ -289,14 +291,46 @@ The PrimordialDAO guarantees transparency and security throughout the voting pro
 
 ---
 
-## The Interstellar Bridge
+## Nebula Swap & Aggregator
 
+Star System Labs proudly introduces Nebula Swap, a gas-optimized Automated
+Market Maker (AMM) offering lower fees, designed to revolutionize the trading
+experience within the cryptocurrency ecosystem. By prioritizing meme coins and
+harnessing the latest in Solidity standards, Nebula Swap ensures efficient and cost-
+effective transactions for all users.
+At the core of Nebula Swap's innovation lies our integrated Swap Router
+Aggregator. This feature empowers users by offering the flexibility to choose the
+most advantageous trade routes across various leading platforms. Through
+comparative analysis, the Aggregator guarantees users receive maximum value for
+their trades, setting a new benchmark in trading efficiency.
+Key Features:
 
-The Interstellar Bridge is a groundbreaking Cross Chain Bridge that connects the PrimordialPePe and StarDustDividends blockchain ecosystems. Operating at the heart of our generative, fully on-chain system, this innovative bridge enables efficient fund transfers between the SSL ecosystems, which run on separate blockchains. By promoting interoperability and decentralized asset movement, the Interstellar Bridge empowers users to tap into the full potential of both ecosystems, ushering in new possibilities for decentralized finance (DeFi).
+1. Gas Optimization: Leveraging the latest advancements in Solidity, Nebula Swap
+minimizes transaction costs, ensuring trades are not only swift but also
+economical.
 
-The Interstellar Bridge's primary objectives are to facilitate seamless fund transfers between blockchains, fostering cross-chain communication, ensuring security and trust through advanced cryptographic protocols, and embracing full decentralization and community governance. Leveraging cutting-edge blockchain technology and smart contracts, the bridge incorporates specialized oracles for secure data verification and cross-chain smart contracts governing asset movement. The bridge's user-friendly interface simplifies fund transfers for both technical and non-technical users, while regular security audits ensure the integrity and robustness of its smart contracts.
+2. Meme Coin Priority: Understanding the unique appeal and potential of meme
+coins, Nebula Swap offers optimized trading pairs, ensuring these vibrant assets
+remain at the forefront of our ecosystem.
 
-This opens up various use cases within our ecosystem, such as seamless asset transfers between chains, liquidity optimization for diversified strategies, and cross-chain NFT accessibility. By embracing decentralization and security, this bridge ushers in a new era of seamless cross-chain interactions, driving the adoption of meme tokens to unprecedented heights.
+3. Swap Router Aggregator: A built-in mechanism meticulously compares trade
+routes across top AMM platforms, ensuring users achieve the best possible trade
+outcomes.
+
+4. Community Focused Fee Management: Nebula uses fees generated to payout to
+community users and holders, we will use a certain percent for token buybacks
+(PPEPE or SDIV, voted on by the community) and rewards for users of the Nebula
+Swap.
+
+Meme More, Earn More: In alignment with our commitment to community
+engagement, fees generated through the Aggregator are allocated to reward users.
+Every 120 days, participants in the Nebula Swap system receive the ability to claim
+rewards based on activity and usage of the nebula swap and aggregator, fostering a
+robust and rewarding trading environment.
+
+Nebula is more than a trading platform; it's a commitment to enhancing user
+experience, optimizing costs, and rewarding the vibrant community that makes our
+ecosystem thrive. Welcome to the future of trading in the meme coin universe.
 
 ---
 
