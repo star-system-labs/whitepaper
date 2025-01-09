@@ -42,7 +42,7 @@
 
 8. [The PrimordialDAO](#the-primordialdao)
 
-9. [NebulaSwap & Aggregator](#nebulaswap-&-aggregator)
+9. [NebulaSwap & Aggregator](#nebulaswap-and-aggregator)
 
 10. [Conclusion](#conclusion)
 
